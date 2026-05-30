@@ -16,9 +16,8 @@ out
 /coverage
 
 # data sources and cv
-/cv
-public/cv
-public/cv/
+public/cv/*
+!public/cv/.gitkeep
 
 # credentials and sensitive scripts
 public/smtp_config.php
