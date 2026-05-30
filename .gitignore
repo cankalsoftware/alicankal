@@ -21,7 +21,8 @@ public/cv
 public/cv/
 
 # credentials and sensitive scripts
-*.php
+public/smtp_config.php
+smtp_config.php
 .env
 .env.local
 .env.development.local
