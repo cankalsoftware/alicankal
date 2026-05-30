@@ -1,16 +1,16 @@
+"use client";
+
 import React, { useEffect, useState } from "react";
+import Header from "../Components/Header";
+import About from "../Components/About";
+import Resume from "../Components/Resume";
+import Portfolio from "../Components/Portfolio";
+import Testimonials from "../Components/Testimonials";
+import Contact from "../Components/Contact";
+import Footer from "../Components/Footer";
+import { loadDynamicData } from "../utils/csvLoader";
 
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import About from "./Components/About";
-import Resume from "./Components/Resume";
-import Contact from "./Components/Contact";
-import Testimonials from "./Components/Testimonials";
-import Portfolio from "./Components/Portfolio";
-
-import { loadDynamicData } from "./utils/csvLoader";
-
-const App = () => {
+export default function Home() {
   const [resumeData, setResumeData] = useState({});
 
   useEffect(() => {
@@ -46,6 +46,4 @@ const App = () => {
       <Footer data={resumeData.main} />
     </div>
   );
-};
-
-export default App;
+}
