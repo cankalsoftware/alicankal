@@ -4,15 +4,15 @@
     "occupation": "Founder @ FireVision.uk | Bespoke Software & CRM Solutions | Founder @ MentorInAI",
     "description": "Guiding Apprentices to EPA Success (L6 to L3) | 100% Pass Rate",
     "image": "profilepic.jpg",
-    "bio": "I live at the intersection of doing and teaching.  For over 25 years, I have built mission-critical software systems while simultaneously defining the standards for the next generation of tech talent. My work focuses on two core missions: Engineering Solutions and Empowering Talent. 🚀 ENGINEERING & INNOVATION: Cankal Software & FireVision“Solving business chaos and critical safety challenges. ”Through Cankal Software, I architect the escape route for businesses trapped in Excel Hell. I help SMEs replace disjointed spreadsheets and Frankenstack software with Bespoke CRM & ERP Applications. We don't just digitise; we engineer Operational Liberation, building robust, scalable platforms (Python, SQL, NextJS) that provide real-time business intelligence and eliminate per-user licensing fees. This deep technical rigour powers FireVision.uk, my deep-tech R&D venture. Moving beyond traditional smoke sensors, FireVision utilises Computer Vision and Edge AI (YOLO) to detect flame signatures in real-time visually. We are shifting the industry from reactive alarms to proactive intelligence, protecting lives and infrastructure. 🎓 MENTORING & STANDARDS: MentorInAI.com“From first steps to first-time pass.”The journey to becoming a Digital & Technology Solutions Professional (DTSP) is fraught with anxiety, mainly the End Point Assessment (EPA). I turn that anxiety into mastery. With a 100% success rate across 400+ learners (99% first-time pass), I know exactly what assessors require. My mentorship bridges the gap between technical coding skills and academic requirements. EPA Mastery: Demystifying the Synoptic Project, Professional Discussion, and Portfolio for L3 to L6 standards. DTSP Specialisation: Expert guidance on S3 (Solution Specification) and K18 (Research Methodologies) to prevent the common Academia-Business alignment failures. The EPAHUB: Access to unparalleled resources to ensure you succeed when it matters most. THE COMMON THREAD. Whether deploying a custom CRM for a client or guiding an apprentice through their final project, my philosophy is identical: Mastery matters. Robust code builds robust businesses, and strong mentorship builds future tech leaders. Core Competencies: Agile (Scrum/Kanban/PRINCE2) • SDLC Management • Lean Six Sigma • Full Stack Web Development (Python, React/NextJS) • AI/ML (Computer Vision, OpenCV, YOLO) • Technical Coaching • Apprenticeship Standards (L3–L6) • Synoptic Project Guidance. Let's Connect:📩 Message me here on LinkedIn🌐 Tech & Innovation: cankalsoftware.com | firevision.uk🧠 Mentorship: mentorinai.com",
+    "bio": "I live at the intersection of doing and teaching.\n\nFor over 25 years, I have built mission-critical software systems while simultaneously defining the standards for the next generation of tech talent.\n\nMy work focuses on two core missions: Engineering Solutions and Empowering Talent.\n\n🚀 ENGINEERING & INNOVATION: Cankal Software & FireVision\n\n“Solving business chaos and critical safety challenges.”\n\nThrough Cankal Software, I architect the escape route for businesses trapped in \"Excel Hell.\" I help SMEs replace disjointed spreadsheets and \"Frankenstack\" software with Bespoke CRM & ERP Applications. We don't just digitise; we engineer Operational Liberation, building robust, scalable platforms (Python, SQL, NextJS) that provide real-time business intelligence and eliminate per-user licensing fees.\n\nThis deep technical rigour powers FireVision.uk, my deep-tech R&D venture. Moving beyond traditional smoke sensors, FireVision utilises Computer Vision and Edge AI (YOLO) to detect flame signatures in real-time visually. We are shifting the industry from reactive alarms to proactive intelligence, protecting lives and infrastructure.\n\n🎓 MENTORING & STANDARDS: MentorInAI.com\n\n“From first steps to first-time pass.”\n\nThe journey to becoming a Digital & Technology Solutions Professional (DTSP) is fraught with anxiety, mainly the End Point Assessment (EPA). I turn that anxiety into mastery.\n\nWith a 100% success rate across 400+ learners (99% first-time pass), I know exactly what assessors require. My mentorship bridges the gap between technical coding skills and academic requirements.\n\nEPA Mastery: Demystifying the Synoptic Project, Professional Discussion, and Portfolio for L3 to L6 standards.\n\nDTSP Specialisation: Expert guidance on S3 (Solution Specification) and K18 (Research Methodologies) to prevent the common \"Academia-Business\" alignment failures.\n\nThe EPAHUB: Access to unparalleled resources to ensure you succeed when it matters most.\n\nTHE COMMON THREAD. Whether deploying a custom CRM for a client or guiding an apprentice through their final project, my philosophy is identical: Mastery matters. Robust code builds robust businesses, and strong mentorship builds future tech leaders.\n\nCore Competencies: Agile (Scrum/Kanban/PRINCE2) • SDLC Management • Lean Six Sigma • Full Stack Web Development (Python, React/NextJS) • AI/ML (Computer Vision, OpenCV, YOLO) • Technical Coaching • Apprenticeship Standards (L3–L6) • Synoptic Project Guidance.\n\nLet's Connect:\n📩 Message me here on LinkedIn\n🌐 Tech & Innovation: cankalsoftware.com | firevision.uk\n🧠 Mentorship: mentorinai.com",
     "contactmessage": "Get in touch with me to replace your disjointed spreadsheets or help you master your apprenticeships!",
-    "email": "alicankal@cankalsoftware.com",
+    "email": "ali@alicankal.com",
     "phone": "+44 7424751632",
     "address": {
-      "street": "",
-      "city": "London Area",
+      "street": "Chippenham",
+      "city": "Wiltshire",
       "state": "United Kingdom",
-      "zip": "sw2"
+      "zip": "SN15"
     },
     "website": "https://www.firevision.uk",
     "resumedownload": "https://www.cankalsoftware.com",
@@ -49,9 +49,9 @@
     "education": [
       {
         "school": "Keele University",
-        "degree": "Master's degree",
+        "degree": "Master of Science (MSc) - Computer Science with Artificial Intelligence",
         "graduated": "Jan 2026",
-        "description": "https://online.keele.ac.uk/online-programme/msc-computer-science-with-artificial-intelligence/"
+        "description": "Graduated with a comprehensive focus on advanced Artificial Intelligence, Machine Learning, and Data Science methodologies. This rigorous programme bridged the gap between theoretical computer science and the deployment of real-world, commercial AI applications.\n\n🧠 Core Academic Focus & Modules:\n\nAI & Machine Learning: Applied cutting-edge ML techniques to authentic datasets, focusing on image processing, data mining, and automated predictive models.\n\nStatistical Data Analytics & Databases: Utilised advanced statistical modelling and big data manipulation techniques to extract actionable business intelligence.\n\nSoftware Engineering & System Design: Mastered object-oriented programming, algorithms, data structures, and team-based Agile software development.\n\nUX Design & Web Security: Studied the psychological foundations of User Experience (UX), systematic requirements engineering, and advanced defence methods against web application security threats.\n\nMathematics for AI: Advanced application of vectors, matrices, linear equations, and probability models essential for Data Science.\n\n🚀 MSc Capstone Project (FireVision.uk):\n\nEvaluated, integrated, and applied my accumulated theoretical knowledge to build a real-world solution. I architected and developed a cloud-native SaaS platform utilizing Computer Vision (YOLO algorithms) and Python for real-time visual fire safety detection.\n\n💻 Technical Stack & Languages Gained:\n\nPython, R, MATLAB, XML, SQL / Relational Databases, Anaconda, XAMPP, and Data Visualisation frameworks."
       },
       {
         "school": "The Open University",
@@ -926,11 +926,46 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Fire and Smoke detection with DCNN and computer vision",
+        "category": "Project",
+        "image": "firevision.jpg",
+        "url": "https://firevision.uk",
+        "description": "This project proposes the development of a real-time smoke and fire detection system using computer vision and Deep Convolutional Neural Networks (DCNNs). The goal is to address the growing problem of wildfires and urban fire hazards by climate change. With the aid of existing security camera infrastructure, the system will serve as an early warning mechanism capable of identifying fire signs, such as smoke and flame. The project is designed to demonstrate not only technical innovation but also real-world utility, laying the foundation for a future commercial product. Key outcomes include: A prototype application capable of detecting smoke and fire in real-time Evaluation of existing literature to identify state-of-the-art models and gaps Performance testing and validation with both open and custom datasets"
+      },
+      {
+        "title": "CBT-OS",
+        "category": "Project",
+        "image": "cbt-os.jpg",
+        "url": "https://cbt-os.com",
+        "description": "Cyber Blue Team OS tools for Blue Team enthusiasts."
+      },
+      {
+        "title": "MentorinAI",
+        "category": "Project",
+        "image": "mentorinai.jpg",
+        "url": "https://mentorinai.com",
+        "description": "We are starting to build a repository for software development in ML and AI. Soon, we will launch the website and video-on-demand learning videos.  As part of the preparation, as this site will guide the Degree apprentices, we start building the video series on YouTube >>https://www.youtube.com/@Mentorinai Eventually, we will cover all of the KSBs for all possible Apprenticeship programs."
+      },
+      {
+        "title": "Meet your new AI Content Creator",
+        "category": "Project",
+        "image": "content-creator.jpg",
+        "url": "https://ai.mentorinai.com/",
+        "description": "Transform your video content with AI-powered analysis, transcription, and insights. Get started in seconds."
+      },
+      {
         "title": "Uzman Yangın Müşteri / Ürün Takip Sistemi",
         "category": "Project",
-        "image": "uzmanyangin.PNG",
-        "url": "http://www.uzman-yangin.com",
+        "image": "uzmanyangin.jpg",
+        "url": "https://www.uzman-yangin.com",
         "description": "Development of a CRM application with web technologies and app integration."
+      },
+      {
+        "title": "Data collection and Machine learning",
+        "category": "Project",
+        "image": "yangincim.jpg",
+        "url": "https://yangincim.com",
+        "description": "Start building a page to create a new industry-specific listing page to help and improve companies in their specialities, thereby growing their customer base and productivity. Use of MS Power Automation for data collection, Algorithms for SEO, Machine learning for predictions, and AI for content creation techniques to guide companies to grow their business for the future. During this process look into the Cybersecurity for page security and performance."
       }
     ]
   },
@@ -945,24 +980,8 @@
         "user": "Ben da Silva Grave"
       },
       {
-        "text": "I�ve had the pleasure of working with Ali Cankal on the FireVision project, particularly around the development and application of AI?driven fire and smoke detection systems, and I can confidently say Ali brings a rare combination of deep technical expertise, educational insight, and genuine professional integrity.",
+        "text": "I’ve had the pleasure of working with Ali Cankal on the FireVision project, particularly around the development and application of AI‑driven fire and smoke detection systems, and I can confidently say Ali brings a rare combination of deep technical expertise, educational insight, and genuine professional integrity.\n\nAli has played a key role in translating complex AI and computer vision concepts into practical, reliable solutions that directly support early fire detection, safety, and risk reduction. His ability to design, test, and refine AI detection models—while keeping real‑world operational needs in mind—has been invaluable to the success of the project.\n\nWhat truly sets Ali apart is his educational mindset. He doesn’t just build systems; he ensures that knowledge is shared clearly and responsibly. Ali consistently explains technical decisions in a way that makes them accessible to both technical and non‑technical stakeholders, helping teams understand not only how the system works, but why it works.\n\nAli approaches his work with a strong focus on quality, ethics, and continuous improvement, particularly important in AI‑based safety solutions. He is thoughtful, methodical, and highly committed to delivering solutions that are trustworthy, compliant, and fit for purpose.\n\nI would highly recommend Ali to any organisation working in AI, fire safety technology, digital learning, or applied computer vision. His contribution to FireVision has been both impactful and forward‑thinking, and he continues to be a trusted and highly capable professional in this space.",
         "user": "Jeffrey Odiase CEng, CITP"
-      },
-      {
-        "text": "test",
-        "user": "Ali has played a key role in translating complex AI and computer vision concepts into practical reliable solutions that directly support early fire detection"
-      },
-      {
-        "text": "",
-        "user": "What truly sets Ali apart is his educational mindset. He doesn�t just build systems; he ensures that knowledge is shared clearly and responsibly. Ali consistently explains technical decisions in a way that makes them accessible to both technical and non?technical stakeholders helping teams understand not only how the system works"
-      },
-      {
-        "text": "methodical",
-        "user": "Ali approaches his work with a strong focus on quality ethics"
-      },
-      {
-        "text": "and he continues to be a trusted and highly capable professional in this space.,06/05/26",
-        "user": "I would highly recommend Ali to any organisation working in AI fire safety technology"
       }
     ]
   }

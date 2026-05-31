@@ -30,9 +30,22 @@ if (!isset($smtpHost) || !isset($smtpPort) || !isset($smtpUser) || !isset($smtpP
 function sendSMTP($host, $port, $username, $password, $from, $to, $subject, $body)
 {
     $err = "Error: ";
-    $socket = fsockopen("ssl://" . $host, $port, $errno, $errstr, 10);
-    if (!$socket)
-        return ["status" => "error", "message" => "Could not connect to SMTP host: $errstr ($errno)"];
+    $socket = @fsockopen("ssl://" . $host, $port, $errno, $errstr, 10);
+    if (!$socket) {
+        // Fallback to standard PHP mail() function (highly robust for cPanel/shared hosting)
+        $headers = "MIME-Version: 1.0\r\n";
+        $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
+        $headers .= "From: $from\r\n";
+        $headers .= "Reply-To: $from\r\n";
+        $headers .= "X-Mailer: PHP/" . phpversion();
+
+        $mailSent = @mail($to, $subject, $body, $headers);
+        if ($mailSent) {
+            return ["status" => "success", "message" => "Email sent successfully via php mail() fallback"];
+        }
+
+        return ["status" => "error", "message" => "Could not connect to SMTP host: $errstr ($errno) and php mail() fallback failed."];
+    }
 
     function readResponse($socket)
     {
@@ -53,9 +66,22 @@ function sendSMTP($host, $port, $username, $password, $from, $to, $subject, $bod
 
     readResponse($socket); // clear banner
     sendCommand($socket, "EHLO " . $host);
-    sendCommand($socket, "AUTH LOGIN");
-    sendCommand($socket, base64_encode($username));
-    sendCommand($socket, base64_encode($password));
+
+    $authLogin = sendCommand($socket, "AUTH LOGIN");
+    if (strpos($authLogin, "334") === false) {
+        return ["status" => "error", "message" => "SMTP Auth Login command failed: " . trim($authLogin)];
+    }
+
+    $authUser = sendCommand($socket, base64_encode($username));
+    if (strpos($authUser, "334") === false) {
+        return ["status" => "error", "message" => "SMTP Username rejected: " . trim($authUser)];
+    }
+
+    $authPass = sendCommand($socket, base64_encode($password));
+    if (strpos($authPass, "235") === false) {
+        return ["status" => "error", "message" => "SMTP Authentication failed (check credentials): " . trim($authPass)];
+    }
+
     sendCommand($socket, "MAIL FROM: <$from>");
     sendCommand($socket, "RCPT TO: <$to>");
     sendCommand($socket, "DATA");

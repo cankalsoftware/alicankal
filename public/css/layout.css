@@ -1303,7 +1303,8 @@ footer .social-links li:first-child {
    footer,
    .expand-btn,
    .download,
-   .widget {
+   .widget,
+   .hide-on-print {
       display: none !important;
    }
 
