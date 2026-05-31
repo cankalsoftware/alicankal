@@ -81,90 +81,114 @@
     "work": [
       {
         "company": "Cankal Software & IT Consultancy",
-        "title": "Software Developer",
+        "title": "Founder & Lead Product Architect (FireVision SaaS)",
         "years": "Jul 2025 - Present",
-        "description": "Developing the next generation AI SaaS with firevision to save lives."
+        "description": "At Cankal Software, we don't just advise on digital transformation; we build the future of safety. I lead the R&D and product engineering for FireVision.uk, a proprietary SaaS platform that transforms standard, dull CCTV infrastructure into intelligent, life-saving visual sensors.  🔥 THE MISSION: FROM REACTIVE TO PREDICTIVE Traditional fire safety relies on chemical sensors (smoke detectors), which suffer from a dangerous latency gap—smoke must physically reach the sensor before an alarm triggers. In high-ceiling warehouses or outdoor environments, this delay can be catastrophic.  The Why: To close the detection gap. We built FireVision to equip existing security cameras with a brain, enabling them to instantly visually detect fire signatures (flame and smoke) often minutes before traditional sensors react.  🛠️ THE SOLUTION: RETROFITTING INTELLIGENCE FireVision is not hardware; it is an intelligence layer. I architected this solution to solve a specific market pain point: the high cost of upgrading safety infrastructure.  Dull to Smart: We utilise Edge AI and Cloud processing to ingest RTSP streams from standard legacy CCTV cameras.  Computer Vision Engine: Leveraged YOLO (You Only Look Once) algorithms and OpenCV to train custom models capable of distinguishing between actual fire hazards and false positives (like steam or strobe lights) with high confidence.  SaaS Delivery: Built as a scalable web application that allows Facility Managers to monitor alerts in real-time, view detection clips, and manage emergency protocols from a single dashboard.  💻 TECH STACK & ARCHITECTURE  Core: Python (for AI/ML processing),  Web: React/Next.js (Frontend), Node.js (Backend).  Infrastructure: @Vultr & @Twilio Edge IoT deployment.  IMPACT: FireVision represents the pinnacle of Cankal Software’s philosophy: Applied Intelligence. We are applying theoretical AI concepts to real-world problems to protect assets and save lives."
       },
       {
         "company": "QA Ltd",
         "title": "Degree Digital Learning Consultant",
         "years": "Oct 2023 - Present",
-        "description": "I support the learners through the Digital Technology & Solutions Degree and Apprenticeship with Roehampton University. I also mark the module end assignments on their term modules, mainly on Software and DevOps."
+        "description": "Delivering academic excellence and operational innovation for the UK’s leading tech apprenticeship provider. I operate at the intersection of higher education and technical delivery, guiding Degree Apprentices through the DTSP programme. In a high-volume many-to-many support environment, I combine pedagogical expertise (TAP/ILM) with technical automation skills to drive learner success and team efficiency. CORE RESPONSIBILITIES: Academic Delivery & Assessment DTSP Degree Support: Guiding Level 6 apprentices through the rigorous academic and technical requirements of the Roehampton University standard, specifically within Software Engineering and DevOps pathways. Assessment & Feedback: Marking high-level academic modules and providing critical, constructive feedback on assignments to ensure learners meet university standards and achieve distinction grades. Learner Success: Providing pastoral and technical coaching to ensure retention and progression for learners, balancing full-time employment with degree-level study. Operational Efficiency & Automation Process Automation: leveraging my developer background to design and deploy Microsoft Power Automate flows. These tools have minimised administrative overhead for my team of 15, automating routine reporting and communication tasks to free up time for high-value learner support. Technical Leadership: Acting as a subject matter expert within the team, upskilling colleagues on new tools and digital workflows. Team Development & Leadership Mentoring & Coaching: Applying ILM (Institute of Leadership & Management) and TAP (Training Accreditation Programme) methodologies to support the professional growth of my team members. Knowledge Sharing: Leading internal training sessions to ensure the team remains agile and effective in a fast-paced digital environment. Key Skills: Academic Assessment • DevOps • Software Engineering • Power Automate • Pedagogy (TAP Certified) • Team Leadership (ILM) • Stakeholder Management."
       },
       {
         "company": "Cankal Software & IT Consultancy",
-        "title": "SD Mentor in AI & ML",
-        "years": "Dec 2024 - Present",
-        "description": "MentorIn... : For empowering the next generation of AI professionals"
-      },
-      {
-        "company": "Cankal Software & IT Consultancy",
-        "title": "Digital Consultant",
+        "title": "Founder & Principal Digital Consultant",
         "years": "Oct 2016 - Present",
-        "description": "•\tI work as a freelance consultant to improve companies’ IT processes and their interaction with technology. •\tI work with several companies’ IT systems to improve their business by %35. •\tI create a better business process for customers and increase profitability by %20 with Lean Six Sigma approaches. •\tI develop a Java-based CRM application to increase companies’ business with MySQL DB. •\tI develop a selection of web pages to increase customer business by %20. •\tI set the SEO for companies to improve their marketplace by %10 within their sector."
+        "description": "I operate as a strategic partner to SMEs, transforming disjointed IT processes into streamlined, high-performance engines. At Cankal Software, I combine deep technical architecture skills with Lean Six Sigma methodologies to deliver Operational Liberation—helping businesses escape the chaos of spreadsheets (Excel Hell) and scale with confidence. My core focus is designing and deploying custom software solutions that drive measurable business growth. Partnering with companies to overhaul their interaction with technology. By applying Lean Six Sigma principles to remove waste and automate workflows, I have delivered a 35% improvement in overall business efficiency for key clients. Translating technical improvements into financial results. My interventions in process re-engineering have directly contributed to a 20% increase in customer profitability. Bespoke CRM Architecture: moving clients away from restrictive off-the-shelf tools. I architect and develop custom Java/Python and MySQL-based CRM applications that centralise data, ensure Single Source of Truth, and support business continuity. Market Growth & Technical SEO: developing high-performance web platforms that don't just look good but perform. Through targeted technical SEO and web optimisation, I have helped clients achieve a 10% increase in marketplace share within their specific sectors. Beyond commercial consultancy, I am committed to strengthening the global cybersecurity community. I founded and maintain the CBT-OS, a specialised Linux distribution designed to democratize access to defensive security tools. This open-source project provides aspiring SOC analysts and Blue Teams with a pre-configured environment for digital forensics, phishing analysis, and BTL1 certification preparation, bridging the tooling gap in the industry. Core Tech Stack: Java • Python • SQL (MySQL/Azure SQL) • Lean Six Sigma • Linux System Architecture • CRM Development • Technical SEO • Open Source Maintenance."
+      },
+      {
+        "company": "Cankal Software & IT Consultancy",
+        "title": "Founder & Lead Technical Mentor",
+        "years": "Dec 2024 - Present",
+        "description": "I founded MentorInAI to solve a critical failure in the UK tech sector: the gap between academic theory and workplace competence. We provide Intelligent Mentorship to apprentices and employers, ensuring learners not only pass their assessments but also emerge as high-impact professionals.  🎓  DEMYSTIFYING The EPA is the single biggest anxiety point for apprentices. I architected the EPAHUB, a comprehensive digital resource library that decodes complex assessment criteria into actionable steps.  100% Success Rate: My coaching methodologies have guided 400+ learners through Level 3, 4, and 6 standards (including DTSP Degree Apprenticeships) with a 99% first-time pass rate.  Synoptic Project Rescue: I specialise in helping Level 6 apprentices structure their major projects. I teach them to map vague business problems to rigorous academic standards, such as Skill 3 (Solution Specification) and Knowledge 18 (Research Methodologies), thereby preventing the common referral trap where projects fail due to academic technicalities.  🚀 CLOSING THE GAP  I work as a strategic partner to training providers and employers, aligning apprenticeship delivery with business goals.  Curriculum Design: I develop technical content that goes beyond the textbook, teaching real-world skills in Software Engineering, DevOps, and Data Analysis.  AI-Driven Learning: Leveraged my background in AI to build custom tools like the AI Content Generator, helping apprentices reflect on their learning logs more effectively and reducing administrative burden.  🎥 EPAHUB I produce and host the EPAHUB YouTube channel, creating high-value educational content that breaks down complex standards (like Risk Management/S2 and Green Computing/K20) into digestible, 5-minute guides. This has become a go-to resource for thousands of UK apprentices.  Core Focus: DTSP (Level 6) • Software Developer (Level 4) • DevOps • Data Analysis • EPA Coaching • Academic Assessment • Technical Mentorship."
       },
       {
         "company": "QA Ltd",
-        "title": "Cyber Security Digital Learning Consultant",
-        "years": "Dec 2022 - Sep 2024",
-        "description": ""
+        "title": "Digital Learning Consultant (Cyber Security - Level 4)",
+        "years": "Dec 2022 - Oct 2024",
+        "description": "Leveraging my technical background in software engineering, I transitioned into the high-demand Cyber Security division to support a diverse cohort of apprentices through the Level 4 Cyber Security Technologist standard. Over an 18-month tenure, I provided specialist technical coaching and assessment preparation, ensuring learners mastered both the offensive and defensive aspects of information security.  🛡️ MULTI-PATHWAY TECHNICAL COACHING  I successfully managed and mentored learners across three distinct specialist pathways, adapting my coaching style to the specific technical demands of each:  Cyber Defender & Responder: Coached learners on operational security, incident response workflows, and real-time threat monitoring using SIEM tools.  Security Engineer: Mentored apprentices on Security by Design principles, network hardening, and designing secure infrastructure to prevent breaches before they occur.  Security Risk Analyst: Guided learners through Governance, Risk, and Compliance, focusing on ISO27001 standards, risk assessment methodologies, and audit preparation.  🎓 EXCELLENCE IN ASSESSMENT  EPA Success: Expertly guided apprentices through the rigorous End-Point Assessment components, including the Scenario Demonstrations, Professional Discussion, and the high-stakes Knowledge Test.  Technical Translation: Played a critical role in helping learners translate complex theoretical security concepts (cryptography, network protocols) into practical workplace evidence, significantly improving their portfolio quality and EPA grades.  🚀 LEARNER SUPPORT & PROGRESSION  Holistic Mentorship: Provided pastoral and technical support to learners in high-pressure SOC (Security Operations Centre) environments, helping them balance intense work shifts with academic study.  Core Competencies: L4 Cyber Security Technologist • Incident Response • Risk Management (GRC) • Network Security • Threat Intelligence • EPA Standards • SIEM Concepts."
       },
       {
         "company": "QA Ltd",
-        "title": "Software Developer Digital Learning Consultant",
-        "years": "May 2020 - Sep 2024",
-        "description": "•\tBe responsible for coaching and mentoring a group of learners working towards the successful and timely achievement of their Software development apprenticeship programme within a digital environment."
+        "title": "Software Developer Digital Learning Consultant (Level 4 Specialist)",
+        "years": "May 2020 - Oct 2024",
+        "description": "Promoted to a specialist role focusing specifically on the Level 4 Software Developer standard. In this capacity, I shifted from generalist coaching to high-level technical consultancy, ensuring learners achieved Timely Achievement in a complex digital environment.  🏆 DRIVING HIGH PERFORMANCE & SUCCESS RATES  Level 4 Specialisation: Concentrated exclusively on the advanced technical requirements of the Level 4 standard. I mentored learners on complex coding principles, software design patterns, and agile methodologies, resulting in a significantly higher distinction rate for my cohort.  Timely Achievement: Implemented rigorous project management strategies for my caseload, ensuring learners hit their Gateway dates on time. This reduced out-of-funding risks for the business and accelerated certification for the learners.  💻 DIGITAL DELIVERY & INNOVATION  Virtual Coaching: Operated within a fully digital environment, utilising remote collaboration tools to mentor learners across the UK. I adapted pedagogical styles to suit online delivery, ensuring engagement remained high despite the lack of face-to-face contact.  Project Mentorship: Provided deep-dive technical support for the Synoptic Project, helping apprentices scope, build, and test software solutions that met both academic criteria and real-world business needs.  🤝 MENTORING & RETENTION  Resilience Building: Coached learners through the specific pressures of the Level 4 curriculum, focusing on problem-solving resilience and debugging skills—critical traits for professional developers.  Core Tech Stack & Focus: Level 4 Software Developer Standard • C# / Java / Python • Agile & Scrum • Synoptic Project Scoping • Digital Pedagogy • Learner Progress Management."
       },
       {
         "company": "QA Ltd",
-        "title": "Software Developer Skills Coach",
+        "title": "Software Developer Skills Coach (Level 3 & 4)",
         "years": "Mar 2018 - May 2020",
-        "description": "•\tTo coach, mentor and assess groups of learners towards the achievement of their programme. •\tWork with the Regional Delivery Manager to meet the key business strategies and objectives. •\tTo support the learners to apply their newly found skills and knowledge to their day-to-day roles. •\tTo provide guidance and support for all components of the Software Developer programme for a caseload of learners.  •\tTo retain learners engaged in the programme and manage their learning and achievement in line with the targets and objectives agreed in their Commitment Statement. •\tTo conduct regular meetings between the employer and learner to demonstrate formal progress and planning of progression. •\tTo provide an outstanding experience for both the learner and the employer. •\tTo travel and complete assessment of all related Assessment Organisations’(Awarding Body) assignments. •\tIdentify, develop and deliver business opportunities. •\tManage a targeted number of learners. •\tUndertake additional projects and activities to meet the needs of the Delivery team and learners as required. •\tSupport learners holistically across a variety of modules, specifically helping them apply their skills to their immediate job roles. •\tBuild good working relationships with employers, line managers and mentors. •\tSupport the learners through the Summative Portfolio, Synoptic Project, Knowledge Modules and Interview with Assessment Organisation. •\tSupporting workplace managers with requirements for a learner reference. •\tEnsure that programmes are delivered in accordance with the organisations’ Equal Opportunities and Health and Safety Policies. •\tContinuous development and meeting the KPIs to grow my team and my business in the education sector."
+        "description": "This role marked the foundation of my transition from industry practitioner to technical educator. Over a two-year tenure, I was responsible for the end-to-end coaching, assessment, and professional development of a caseload of Software Development apprentices (Level 3 & 4). My focus was not just on passing exams, but on empowering learners to apply new coding skills directly to their day-to-day job roles, delivering immediate ROI for their employers.  🚀 COACHING & TECHNICAL MENTORSHIP Holistic Development: Delivered high-impact coaching sessions covering the full software development lifecycle. I guided learners in translating theoretical knowledge into practical workplace competencies.  Retention & Success: Managed a diverse caseload with a focus on high retention. By providing robust pastoral support and holistic guidance, I ensured learners remained engaged, resilient, and on track to meet their Commitment Statements.  📈 STRATEGIC EMPLOYER PARTNERSHIPS Business Alignment: Acted as the primary bridge between the training provider and employer line managers. I conducted high-value progress reviews to ensure the apprenticeship training aligned directly with the employer's business strategy and objectives.  Commercial Growth: Proactively identified and developed new business opportunities within my region, contributing to the growth of the delivery team and meeting strict KPIs for learner starts and progression.  🎓 EPA & ASSESSMENT EXPERTISE Gateway to Success: Expertly guided learners through the high-pressure components of the EPA, including the Summative Portfolio, Synoptic Project, and Employer Reference.  Standards Compliance: Ensured all delivery was rigorously compliant with Awarding Body requirements, Equal Opportunities, and Health & Safety policies, ensuring a safe and fair learning environment.  Key Focus: L3/L4 Software Development • EPA Preparation • Synoptic Project Guidance • Stakeholder Management • Pastoral Care • Technical Assessment."
       },
       {
         "company": "Mercedes-Benz in the UK",
-        "title": "Rollout Training Consultant",
-        "years": "Jan 2018 - Feb 2018",
-        "description": "•\tI worked as a rollout and training consultant to implement a new MB application to be used in their UK dealership network. •\tI was responsible for training out the XPP/Autoline integration to Mercedes-Benz Passenger Car Autoline aftersales users in a classroom environment  •\tI was also responsible for on-the-job workstation coaching to Mercedes-Benz Passenger Car Autoline aftersales users. •\tI was supporting the retailer/dealer aftersales teams post-go-live. Managing query and issue resolution"
+        "title": "Rollout Training Consultant (Mercedes-Benz UK)",
+        "years": "Jan 2018 - Mar 2018",
+        "description": "I served as a specialist Training Consultant for the UK-wide rollout of a critical new Mercedes-Benz dealership application (XPP/Autoline integration). This role was pivotal in my career, establishing my foundation in technical education and change management within high-stakes corporate environments.  🚀 SOFTWARE ROLLOUT & ADOPTION  My primary mission was to ensure the successful adoption of the new Autoline system across the Mercedes-Benz Passenger Car network. I bridged the gap between the technical development team and non-technical after-sales staff.  Classroom Training: Designed and delivered structured classroom-based training sessions for Aftersales users, translating complex system workflows into digestible, practical learning modules.  On-the-Job Coaching: Provided direct at-the-desk coaching and floor-walking support during the critical go-live phase. I helped users navigate real-time transactions, reducing anxiety and minimising operational disruption.  🔧 POST-GO-LIVE SUPPORT & ISSUE RESOLUTION  Rapid Problem Solving: Acted as the first line of defence during the post-go-live period, managing query resolution and technical troubleshooting for dealer teams.  Stakeholder Management: Liaised between dealership staff and the central project team to escalate bugs and refine user guidance, ensuring a smooth transition to business-as-usual (BAU).  Impact: This role honed my ability to explain technical concepts to diverse audiences—a skill that remains central to my work today as a Digital Learning Consultant and Mentor.  Key Skills: Technical Training • Change Management • Software Rollout • Autoline/XPP • Stakeholder Management • On-the-Job Coaching."
       },
       {
         "company": "INFOTURK GROUP",
-        "title": "IT Project Manager",
-        "years": "Mar 2017 - Nov 2017",
-        "description": "•\tMy main duty is to manage, develop and implement a new local cloud software for the international IT sector. •\tI manage to develop new software to increase company revenue by %10 with PRINCE 2 Agile. •\tI report regularly to stakeholders about the cloud storage sector and IT with charts and presentations. •\tI serve as Scrum Master in the project to improve the development life cycle. •\tI collaborate with the sales team to increase international sales. •\tI liaise with international customers to improve relationships for future businesses. •\tI work with network engineers to improve customers’ day to day business. •\tI develop Java applications to improve company IP camera revenue by %15. •\tI add an extra %15 profit to the authentication software sale."
+        "title": "IT Consultant & Junior Project Coordinator (Shadowing Programme) | Agile & PRINCE2 Practitioner",
+        "years": "Mar 2017 - Dec 2017",
+        "description": "Engaged in an intensive, hands-on professional development year with one of Turkey’s leading System Integrators. I shadowed senior engineers and project managers to gain deep operational insight into the System Integration and Custom Software sectors, contributing to live projects for enterprise and government clients.  🚀 TECHNICAL IMMERSION & INNOVATION  Early AI Adoption (OpenCV): Gained my first practical exposure to Computer Vision technology. I supported the engineering team in testing and deploying Java-based IP Camera solutions, utilising OpenCV libraries for early-stage face recognition and automated surveillance prototypes.  Infrastructure Support: Assisted field engineers with the physical and logical installation of complex network infrastructure, supporting hardware cabling and software configuration.  📈 PROJECT COORDINATION & METHODOLOGY  Agile & PRINCE2 Exposure: Observed and practised the hybrid application of PRINCE2 (for governance) and Agile Scrum (for delivery). I practised the daily stand-ups and maintained documentation that helped the team increase development velocity.  Stakeholder Management: Shadowed senior consultants in preparing data-driven presentations for stakeholders, learned to translate complex IT metrics into clear business value reports.  Process Improvement: Contributed to a Lean Six Sigma initiative that identified bottlenecks in the software lifecycle, helping the team achieve efficiency gains.  Key Learning: This role served as the catalyst for my career in dual-track technology leadership, grounding my theoretical knowledge in the practical realities of physical infrastructure and software integration.  Core Exposure: System Integration • OpenCV • Java • Network Infrastructure • PRINCE2 Foundation • Agile Principles • Cloud Services • Stakeholder Reporting."
       },
       {
         "company": "CDK Global",
         "title": "Technical Software Support",
-        "years": "Apr 2008 - Oct 2016",
-        "description": "•\tI provide technical escalation for frontline support to ensure all customer calls are accurately investigated and ensure the cause and the symptom of problems are identified and resolved to meet customer satisfaction. •\tI analyse and resolve complex product issues, using analytical, technical or programming skills to meet SLA by code reading and manipulating. •\tI respond with empathy to customers, dealing with their needs, and acknowledging their operational pressures and deadlines.  •\tI work closely with both colleagues and customers to guide, advise and coach them to resolve their issues and problems with presentation and documentation. •\tI contribute to knowledgebase documentation to improve internal and external knowledge of the dealer management systems by %10. •\tI report issues and recommend process improvements to other teams to minimise queries and problems arising and to increase customer satisfaction levels. •\tDay to day, I complete the system monitoring task to improve system performance. •\tI analyse and read KCML programming code to investigate or resolve critical system issues. •\tI collaborate with third-party software companies to implement their products and new modules to customers’ systems to increase revenue. •\tI lease with third-party business intelligence companies to export the data to improve customer business. •\tI investigate and resolve the data transfer issues in pressured environments to help company profitability."
+        "years": "May 2008 - Oct 2016",
+        "description": "This role defined my transition from IT support to technical analysis. Over an 8-year period, I evolved from frontline troubleshooting to becoming a subject matter expert in the Autoline DMS, mastering the proprietary KCML programming language to resolve complex system issues.  🛠️ TECHNICAL ANALYSIS & KCML DEVELOPMENT Moved beyond standard support fixes by analysing and manipulating KCML programming code. I investigated critical system failures, debugging logic errors to restore functionality and meet strict SLAs. Conducted daily system monitoring and performance tuning, proactively identifying bottlenecks before they impacted dealer operations. Provided the final escalation point for frontline teams, using deep analytical skills to identify the root cause of recurring product issues rather than just treating symptoms.  🔗 MANUFACTURER INTEGRATIONS & DATA EXCHANGE Acted as the technical bridge between dealers and third-party software vendors. I coordinated the implementation of new modules and integrated BI tools to export critical operational data. Investigated and resolved high-pressure data transfer issues between the DMS and Manufacturer (OEM) systems. ensuring accurate stock and financial reporting to protect company profitability.  👨‍🏫 MENTORSHIP & KNOWLEDGE MANAGEMENT Worked closely with colleagues to build their technical confidence. I guided and coached junior analysts through complex case resolutions, fostering a culture of continuous learning. Knowledge Base Growth: actively contributed to technical documentation, improving internal and external knowledge base resources by 10%, which directly reduced repeat queries and improved first-time fix rates. Balanced technical rigour with emotional intelligence. I managed high-stress situations by acknowledging operational pressures and dealing with customer needs with empathy and professionalism.  Core Tech: Autoline Rev 8 • KCML • Linux/Unix • Data Transfer/FTP • System Integration • Technical Documentation."
       },
       {
         "company": "Swindon College",
-        "title": "Language Tutor",
-        "years": "Aug 2007 - Apr 2008",
-        "description": "- I teach the Turkish language to professionals to help their daily communication skills in their business. - I prepare tests and learning materials within the college teaching procedures. - I interact with students in a group or on 1-2-1 bases. - I present samples and exercises to the classroom to improve their knowledge of the language."
+        "title": "Adult Education Tutor (Turkish Language)",
+        "years": "Aug 2007 - May 2008",
+        "description": "This role marked the inception of my journey into professional education and mentorship. While distinct from my technical career, this tenure at Swindon College laid the pedagogical foundations that now underpin my work as a Digital Learning Consultant. I was responsible for designing and delivering adult education programmes, helping UK professionals overcome communication barriers to succeed in international business environments.  🎓 FOUNDATIONS OF TEACHING & MENTORSHIP  Developed comprehensive learning materials and lesson plans aligned with college teaching procedures. I learned to structure complex information into digestible modules—a skill I now use to break down complex code for apprentices.  Prepared and administered rigorous testing protocols to validate learner progress. This early exposure to academic standards gave me my first insight into the importance of structured assessment and feedback loops.  🌍 ENABLING BUSINESS COMMUNICATION  Specialised in teaching Turkish to business professionals, focusing specifically on the daily communication skills required for commercial success. I helped learners navigate cultural nuances and language barriers to improve their business relationships in Turkey.  Delivered instruction across mixed settings, managing dynamic classroom groups and providing intensive 1-to-1 coaching. I adapted my teaching style in real-time to suit different learning paces and professional backgrounds.  This experience sparked my passion for human capital development. It taught me that whether teaching a language or a programming syntax, the core principles of patience, empathy, and structured guidance remain the same.  Key Skills: Adult Education • Lesson Planning • 1-to-1 Coaching • Communication Skills • Assessment Design • Cultural Awareness."
       },
       {
         "company": "Cankal Software & IT Consultancy",
-        "title": "Web Designer and IT support",
+        "title": "International Operations Manager & Web Technologist",
         "years": "Aug 2005 - Aug 2007",
-        "description": "- I communicate with one of the UK’s leading Overseas property agencies to open a new office in Turkey. - I manage a process to create a new property sale organisation in Turkey. - I create web pages for international property advertisements to increase local developers’ property sales and revenue by more than 60%."
+        "description": "A pivotal career chapter defined by entrepreneurial adaptability and cross-border leadership. During the mid-2000s property boom, I bridged the gap between the UK and Turkey, leveraging my technical skills and bilingual fluency to launch and scale a new international sales operation from the ground up.  🚀 MARKET ENTRY & OPERATIONAL LEADERSHIP  Spearheaded the strategic rollout of a leading UK agency’s new division in Turkey. I acted as the primary liaison between UK headquarters and local developers, navigating complex legal and logistical landscapes to establish a fully operational sales office.  Managed the end-to-end creation of the new sales organisation. I defined operational processes and facilitated the transition of business practices to ensure alignment with UK corporate standards in a new territory.  💻 DIGITAL TRANSFORMATION & REVENUE GROWTH  Recognising the power of digital reach, I designed and coded bespoke web landing pages for international property advertisements—applying technical skills to solve a core business problem (visibility).  These digital initiatives revolutionised how local developers reached global buyers, directly driving a 60% increase in property sales revenue and securing a competitive edge in a saturated market.  🌍 BRIDGING CULTURES & BUSINESS  Utilised fluent English and Turkish to facilitate seamless communication between UK investors and Turkish stakeholders. I translated not just language, but business culture, building the trust required to close high-value asset deals.  Key Skills: Business Development • Web Design (HTML/CSS) • Intercultural Management • Startup Operations • Sales Strategy • Stakeholder Management • International Relations."
       },
       {
         "company": "LUX TRAFFIC CONTROLS LIMITED",
-        "title": "CAD Administrator",
-        "years": "Feb 2004 - Aug 2005",
-        "description": "- I have been the lead person to create scaled road closure drawings within highway agency requirements for local councils for road works. - I organise and manage the team of people and council to plan road closer process for highway agency road works. - I use the CAD drawing application to create documentation for highway agencies."
+        "title": "CAD Technician & Traffic Management Planner",
+        "years": "Mar 2004 - Aug 2005",
+        "description": "A safety-critical role bridging the gap between civil engineering design and on-site operational reality. I served as the technical authority for temporary traffic management (TTM) schemes, ensuring every lane closure and diversion complied with strict UK statutory law while maintaining network flow.  📐 PRECISION CAD & TECHNICAL DESIGN  Utilised AutoCAD and Cone 11 to engineer complex road layouts. I translated abstract engineering requirements into precise geometric plans, calculating taper lengths, visibility splines, and safety zones to the millimetre.  Managed complex layer structures to de-conflict TTM furniture with underground utilities (STATS), ensuring Safety by Design prior to mobilisation. Produced an accurate Bill of Quantities (BoQ) for depot logistics.  ⚖️ REGULATORY & STATUTORY COMPLIANCE  Managed the end-to-end lifecycle of Temporary Traffic Regulation Orders (TTROs) under the Road Traffic Regulation Act 1984. I successfully navigated the 12-week critical path for Section 14(1) approvals, mitigating commercial risk for the contractor.  Ensured strict liability compliance with Chapter 8 of the Traffic Signs Manual and The Red Book (Safety at Street Works), acting as the primary gatekeeper for regulatory standards.  🚚 OPERATIONAL LOGISTICS & SAFETY  Designed safe Haul Routes and site access points using Swept Path Analysis to validate turning circles for heavy plant machinery.  Produced detailed Risk Assessments and Method Statements (RAMS), translating technical plans into clear briefings for site foremen to prevent workplace hazards.  Core Skills: AutoCAD • Chapter 8 Compliance • TTRO Management • Risk Assessment • Traffic Engineering • Cone 11 • Swept Path Analysis."
       },
       {
         "company": "Eaton",
-        "title": "Software Engineer /Electronic test technician",
-        "years": "Feb 2001 - Feb 2004",
-        "description": "- I design a GUI application to control the lighting system in a tower building from a PC with OSS 2000 application. - I helped to reduce the lighting cost of the building by 30%. - I assist with the design and development of a Graphical User Interface project which resulted in extra sales and revenue"
+        "title": "Junior Software Engineer & Control Systems Programmer",
+        "years": "Mar 2001 - Mar 2004",
+        "description": "This role was the crucible of my technical career—where I bridged the gap between raw electronics and high-level software engineering. Starting on the shop floor building electronic devices, I rapidly progressed to designing sophisticated software solutions for enterprise Building Management Systems (BMS), translating physical hardware signals into intelligent control logic.  💡 LIGHTING CONTROL AT SCALE (EARLS COURT)  Served as the lead programmer for a massive lighting management system at the iconic Earls Court Exhibition Centre and Tower. I programmed complex automation logic across 30+ floors, ensuring precise control for high-profile events.  Optimised control algorithms to reduce energy consumption by 30%, delivering tangible operational savings for the client through intelligent scheduling and automated load management.  🖥️ SOFTWARE DEVELOPMENT & GUI DESIGN (OSS2000)  Designed and developed custom Graphical User Interfaces (GUI) using the OSS2000 SCADA framework. I transformed complex telemetry data into accessible visual dashboards, allowing facility managers to control entire tower block lighting systems from a single PC.  The innovative GUI designs significantly improved product usability, directly contributing to new client acquisition and driving extra revenue streams for the company.  ⚡ ELECTRONICS & ENGINEERING FOUNDATIONS  Gained a deep first principles understanding of system architecture by physically building electronic control devices before programming them. This foundational experience with electronics and serial communications (RS232/485) gave me a unique advantage in debugging complex integration issues that persists to this day.  Core Tech: OSS2000 • SCADA • GUI Design • Building Automation • Lighting Control • Electronics Assembly • Energy Management • System Integration."
       }
     ],
     "skills": [
+      {
+        "name": "AutoCAD",
+        "level": "80%"
+      },
+      {
+        "name": "AutoCAD administrator",
+        "level": "80%"
+      },
+      {
+        "name": "Teaching Turkish as second language",
+        "level": "80%"
+      },
+      {
+        "name": "New Product Rollout",
+        "level": "80%"
+      },
+      {
+        "name": "skills coach",
+        "level": "80%"
+      },
+      {
+        "name": "Microsoft Power Automate",
+        "level": "80%"
+      },
       {
         "name": "Delivering an interactive learning experience",
         "level": "80%"
@@ -472,20 +496,36 @@
       {
         "name": "React.js",
         "level": "80%"
+      },
+      {
+        "name": "AI for Business",
+        "level": "80%"
+      },
+      {
+        "name": "Digital Transformation",
+        "level": "80%"
+      },
+      {
+        "name": "Replit",
+        "level": "80%"
+      },
+      {
+        "name": "Vibe Coding",
+        "level": "80%"
       }
     ],
     "certifications": [
       {
         "name": "NVQ Level 2 on Lean Six Sigma Green Belt - Process Improvement",
         "authority": "EAL Awards",
-        "date": "Jun 2010",
+        "date": "Jul 2010",
         "license": "98209412",
         "url": "Eal.org.uk"
       },
       {
         "name": "NVQ Level 3 on Lean Six Sigma Green Belt - Quality Improvement",
         "authority": "EAL Awards",
-        "date": "Feb 2011",
+        "date": "Mar 2011",
         "license": "98290011",
         "url": "Eal.org.uk"
       },
@@ -506,7 +546,7 @@
       {
         "name": "PRINCE2® Foundation and Practitioner 2017",
         "authority": "The Knowledge Academy",
-        "date": "Nov 2017",
+        "date": "Dec 2017",
         "license": "",
         "url": ""
       },
@@ -548,7 +588,7 @@
       {
         "name": "Certified Digital Marketing Professional",
         "authority": "QA Ltd",
-        "date": "Feb 2019",
+        "date": "Mar 2019",
         "license": "",
         "url": ""
       },
@@ -562,14 +602,14 @@
       {
         "name": "Coaching for Results",
         "authority": "QA Ltd",
-        "date": "Nov 2018",
+        "date": "Dec 2018",
         "license": "",
         "url": ""
       },
       {
         "name": "Communicate Effectively",
         "authority": "QA Ltd",
-        "date": "Jun 2019",
+        "date": "Jul 2019",
         "license": "",
         "url": "https://www.qa.com/training-courses/business-skills/communication/communicate-effectively"
       },
@@ -597,21 +637,21 @@
       {
         "name": "Fundamentals of AWS",
         "authority": "Cloud Academy, Inc.",
-        "date": "Jun 2020",
+        "date": "Jul 2020",
         "license": "19356382",
         "url": "https://www.credential.net/18586a3f-57cb-4a81-8742-1b32f15cbc56"
       },
       {
         "name": "Learning GIT First-Hand",
         "authority": "Cloud Academy, Inc.",
-        "date": "Jun 2020",
+        "date": "Jul 2020",
         "license": "19361875",
         "url": "https://www.credential.net/9a857c89-ad16-450b-9f5a-1756759c7f35"
       },
       {
         "name": "Google Cloud Platform Fundamentals",
         "authority": "Cloud Academy, Inc.",
-        "date": "Jun 2020",
+        "date": "Jul 2020",
         "license": "21259148",
         "url": ""
       },
@@ -646,7 +686,7 @@
       {
         "name": "ReactJS: Zero to Hero",
         "authority": "Cloud Academy, Inc.",
-        "date": "Nov 2020",
+        "date": "Dec 2020",
         "license": "21271006",
         "url": "https://certificates.cloudacademy.com/394c41f50fbf4496a1101e66a39f5bbd9e3b687d.pdf"
       },
@@ -660,14 +700,14 @@
       {
         "name": "Developing Applications using ReactJS",
         "authority": "QA Ltd",
-        "date": "Feb 2021",
+        "date": "Mar 2021",
         "license": "QA25022021",
         "url": ""
       },
       {
         "name": "Business Writing Essentials",
         "authority": "QA Ltd",
-        "date": "Apr 2021",
+        "date": "May 2021",
         "license": "",
         "url": ""
       },
@@ -688,7 +728,7 @@
       {
         "name": "TAP Certificate in Coaching for Performance",
         "authority": "TAP Learning",
-        "date": "Nov 2021",
+        "date": "Dec 2021",
         "license": "",
         "url": "www.qa.com"
       },
@@ -709,14 +749,14 @@
       {
         "name": "BCS Foundation Certificate in Agile",
         "authority": "BCS, The Chartered Institute for IT",
-        "date": "Feb 2022",
+        "date": "Mar 2022",
         "license": "00531391",
         "url": "http://www.bcs.org/eCertCheck"
       },
       {
         "name": "Leadership Presence",
         "authority": "QA Ltd",
-        "date": "Feb 2022",
+        "date": "Mar 2022",
         "license": "",
         "url": ""
       },
@@ -730,7 +770,7 @@
       {
         "name": "Fundamentals In Coaching Programme",
         "authority": "QA Ltd",
-        "date": "Nov 2022",
+        "date": "Dec 2022",
         "license": "ac56235d-e2ed-4c0f-a6ec-5af1c24eab47",
         "url": "https://www.credly.com/earner/earned/badge/ac56235d-e2ed-4c0f-a6ec-5af1c24eab47"
       },
@@ -744,14 +784,14 @@
       {
         "name": "ILMA Level 3 Understanding Leadership",
         "authority": "City & Guilds",
-        "date": "Apr 2025",
+        "date": "May 2025",
         "license": "88SW-5XDU-4PKA-WHU8-ZXMA",
         "url": ""
       },
       {
         "name": "ILMA Level 3 Award in Leadership and Management",
         "authority": "City & Guilds",
-        "date": "Sep 2025",
+        "date": "Oct 2025",
         "license": "X2K5-GJLN-PTQA-TRKK-H549",
         "url": ""
       },
@@ -765,9 +805,37 @@
       {
         "name": "TAP Training Delivery Skills",
         "authority": "QA Ltd",
-        "date": "Nov 2028",
+        "date": "Dec 2028",
         "license": "",
         "url": "https://www.credly.com/badges/da40b4ba-ece1-4e2a-b4e2-07d7e8f9511e"
+      },
+      {
+        "name": "Microsoft Power Automate Essentials",
+        "authority": "Microsoft",
+        "date": "Dec 2025",
+        "license": "",
+        "url": "https://learn.microsoft.com/api/achievements/share/en-us/AliCankal-1254/9RAPF9WU?sharingId=59EE9C35E7B474E0"
+      },
+      {
+        "name": "The AI Maturity Matrix: Five Steps to Becoming an AI-First Company",
+        "authority": "LinkedIn",
+        "date": "Jan 2026",
+        "license": "",
+        "url": "https://www.linkedin.com/learning/certificates/71fd46951556cb8fe1b1816d00eed69322057d38018ae95fa8c625ff66554e78"
+      },
+      {
+        "name": "Replit 101: From Prompt to Product",
+        "authority": "LinkedIn",
+        "date": "Jan 2026",
+        "license": "",
+        "url": "https://www.linkedin.com/learning/certificates/81e259f6ae62f3d6bd7501261310848766d29a40fe25ea807b6af62e34fc3084"
+      },
+      {
+        "name": "The AI Leadership Mindset",
+        "authority": "QA Ltd",
+        "date": "Mar 2026",
+        "license": "",
+        "url": "https://certificates.platform.qa.com/1fa5e003be947a870128f580d4c3eba32e044fbe.pdf"
       }
     ],
     "honors": [
@@ -798,7 +866,7 @@
       {
         "organization": "Cankal Software & IT Consultancy",
         "role": "ReactJS developer",
-        "date": "Nov 2020 - Present",
+        "date": "Dec 2020 - Present",
         "description": "Creating web applications to teach and develop React JS applications. So far Amazon clone with Firebase and Stripe, NetFlix clone with Redux and Firebase. The next challenge is Slack clone with Firebase and redux. the Let's Learn documentation will be shared in 2021"
       },
       {
@@ -871,6 +939,30 @@
       {
         "text": "Ali is professional, focused, determined, and yet remains friendly, and approachable. He understands the KSBs for L6 DTS and coaches apprentices to achieve their goals.",
         "user": "Alyzande Renard MSc MBCS"
+      },
+      {
+        "text": "During my time working alongside Ali he has constantly shown an in-depth knowledge and understanding for the apprenticeships programmes and support apprentices through their journey and during EPA. Ali has supported his colleagues when they have had questions. Ali has always been approachable and professional in his approach to work.",
+        "user": "Ben da Silva Grave"
+      },
+      {
+        "text": "I�ve had the pleasure of working with Ali Cankal on the FireVision project, particularly around the development and application of AI?driven fire and smoke detection systems, and I can confidently say Ali brings a rare combination of deep technical expertise, educational insight, and genuine professional integrity.",
+        "user": "Jeffrey Odiase CEng, CITP"
+      },
+      {
+        "text": "test",
+        "user": "Ali has played a key role in translating complex AI and computer vision concepts into practical reliable solutions that directly support early fire detection"
+      },
+      {
+        "text": "",
+        "user": "What truly sets Ali apart is his educational mindset. He doesn�t just build systems; he ensures that knowledge is shared clearly and responsibly. Ali consistently explains technical decisions in a way that makes them accessible to both technical and non?technical stakeholders helping teams understand not only how the system works"
+      },
+      {
+        "text": "methodical",
+        "user": "Ali approaches his work with a strong focus on quality ethics"
+      },
+      {
+        "text": "and he continues to be a trusted and highly capable professional in this space.,06/05/26",
+        "user": "I would highly recommend Ali to any organisation working in AI fire safety technology"
       }
     ]
   }
